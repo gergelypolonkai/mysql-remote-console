@@ -1,0 +1,6 @@
+This little GTK2 app opens a terminal in which is logs in to a server
+via SSH and opens up the MySQL command line client. Why I wrote a C
+app for this, I can’t recall.
+
+I release this for the public domain, hoping that someone may learn
+something from it.
